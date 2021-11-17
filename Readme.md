@@ -43,3 +43,13 @@ Example:
 ?1:!<2
 ?2:1>X
 ```
+
+### Comments
+`//` comments out the rest of the line
+Example:
+
+```
+00:1>1 10:1<1
+01:1<0 //this is a comment
+11:1>X
+```
