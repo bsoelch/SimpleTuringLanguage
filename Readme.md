@@ -3,6 +3,11 @@
 is simple programming language for implementing 
 Turing-Machines  
 
+## Usage
+Input the transition commands in a text-file 
+and supply it as the first argument 
+when running TurningLanguage.main()
+
 ## Syntax
 The code is sequence of Transition commands 
 separated by whitespaces.
